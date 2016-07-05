@@ -1,0 +1,4 @@
+Hallo world :)
+
+static foo():
+	pass
